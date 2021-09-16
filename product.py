@@ -32,6 +32,10 @@ class Product:
         return f'Product([${self.__price}] {self.__name}: {self.__desc})'
 
 
+class ShoppingCart:
+    pass
+
+
 if __name__ == '__main__':
     p = Product('Globe 2', 'Is a colorful group globes', 500)
     print(p)

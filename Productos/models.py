@@ -1,15 +1,17 @@
 from django.db import models
 
+
 class TipoDetalle(models.Model):
     nombre = models.CharField(max_length=200)
     foto = models.ImageField(null =True, blank=True)
 
     def __str__(self):
-        #Identificar un objeto
+        # Identificar un objeto
         return self.nombre
     
     def numProductos(self):
         pass
+
 
 class Producto(models.Model):
     nombre = models.CharField(max_length=200)
@@ -31,6 +33,7 @@ class Producto(models.Model):
     def calcularCalificacion(self):
         pass
 
+
 class Comentario(models.Model):
     usuario = models.CharField(max_length=100)
     producto = models.ForeignKey(Producto, on_delete=models.CASCADE)
@@ -41,5 +44,4 @@ class Comentario(models.Model):
     contenido = models.TextField()
 
     def __str__(self):
-        return self.usuario + " - " + self.producto.nombre
-
+        return f'{self.usuario} - {self.producto.nombre}'

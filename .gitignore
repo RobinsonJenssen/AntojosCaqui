@@ -4,3 +4,4 @@ venv/
 .idea/
 backlog.txt
 db.sqlite3
+myvenv

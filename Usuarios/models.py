@@ -31,7 +31,7 @@ class Profile(models.Model):
     user = models.ForeignKey(get_user_model(), on_delete=models.SET_NULL, null=True)
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100, blank=True)
-    document_type = models.ForeignKey(DocumentType, on_delete=models.DO_NOTHING)
+    doc_type = models.ForeignKey(DocumentType, on_delete=models.DO_NOTHING)
     dni = models.CharField(max_length=11, unique=True)  # Document Number Identify
     email = models.EmailField(max_length=100, blank=True)
     mobile_number = models.CharField(max_length=15, blank=True)
@@ -69,7 +69,7 @@ class City(models.Model):
 
 class Address(models.Model):
     profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
-    alias = models.CharField(max_length=20)
+    alias = models.CharField(max_length=20, default='Home')
     city = models.ForeignKey(City, on_delete=models.DO_NOTHING)
     address = models.CharField(max_length=20)
     more_info = models.TextField(blank=True)

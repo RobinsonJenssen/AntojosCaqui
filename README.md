@@ -1,11 +1,11 @@
 <div align="center">
 	<h1><strong>Antojos Caqui</strong></h1>
-	<strong>Integrantes:
-* Robinson Jenssen Caro Quiroga
-* Enrique Andrés Martínez Agudelo
-* Diego Alejandro Varela Grajales
-* Germán Andrés Pérez Morales
-* Luis Enrique Gamboa Maldonado
+	<strong>**Integrantes:
+			* Robinson Jenssen Caro Quiroga
+			* Enrique Andrés Martínez Agudelo
+			* Diego Alejandro Varela Grajales
+			* Germán Andrés Pérez Morales
+			* Luis Enrique Gamboa Maldonado
 
 
 </div>

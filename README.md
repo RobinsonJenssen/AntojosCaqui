@@ -1,6 +1,7 @@
 <div align="center">
 	<h1><strong>Antojos Caqui</strong></h1>
-	<strong>Integrantes:</strong> 
+	<strong>Integrantes:
+	</strong> 
 * Robinson Jenssen Caro Quiroga
 * Enrique Andrés Martínez Agudelo
 * Diego Alejandro Varela Grajales

@@ -1,11 +1,11 @@
 <div align="center">
 	<h1><strong>Antojos Caqui</strong></h1>
 	<strong>Integrantes:</strong> 
-Robinson Jenssen Caro Quiroga
-Enrique Andrés Martínez Agudelo
-Diego Alejandro Varela Grajales
-Germán Andrés Pérez Morales
-Luis Enrique Gamboa Maldonado
+* Robinson Jenssen Caro Quiroga
+* Enrique Andrés Martínez Agudelo
+* Diego Alejandro Varela Grajales
+* Germán Andrés Pérez Morales
+* Luis Enrique Gamboa Maldonado
 
 
 </div>
@@ -17,7 +17,7 @@ Luis Enrique Gamboa Maldonado
 Esta es una aplicación enfocada en los componentes básicos que debe tener un servicio de E-Business para ser implementado en emprendimientos de venta de alimentos procesados y no procesados.
 
 Antojos Caqui es un emprendimiento de deatalles que se divide en tres tipos:
-*Desayunos Sorpresa.
-*Fresas con Chocolate.
-*Arreglos FLorales
+* Desayunos Sorpresa.
+* Fresas con Chocolate.
+* Arreglos FLorales
 

@@ -1,0 +1,93 @@
+body {
+    background-color: #FFF4F4;
+}
+
+nav {
+    padding-top: 30px;
+}
+
+a {
+    color: #7E7C0A;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    padding-right: 40px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.Logo {
+    font-size: 40px;
+    color: #7E7C0A;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-right: 180px;
+}
+
+.Logo:hover {
+    text-decoration: none;   
+}
+
+section {
+    padding-left: 60px;
+    
+}
+
+.main{
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+}
+
+video{
+    width: 100%;
+}
+
+
+h1 {
+    color: #7E7C0A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.tituloP {
+    padding-top: 5px;
+}
+
+p {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    color: #7E7C0A;
+    font-family: cursive;
+    text-align: center;
+}
+
+.contenido {
+    font-size: 15px;
+    width: 1320px;
+    text-align: center;
+}
+
+button {
+    justify-content: center;
+    background-color: #7E7C0A;
+    border-radius: 5px;
+    border-width: 0;
+       
+}
+
+button:hover {
+    background-color: rgb(180, 180, 180);
+}
+
+.tBoton {
+    align-self: center;
+    width: 120px;
+}

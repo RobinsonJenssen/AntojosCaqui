@@ -22,5 +22,5 @@ Esta es una aplicación enfocada en los componentes básicos que debe tener un s
 Antojos Caqui es un emprendimiento de detalles que se divide en tres tipos:
 * Desayunos Sorpresa.
 * Fresas con Chocolate.
-* Arreglos FLorales
+* Arreglos Florales
 
